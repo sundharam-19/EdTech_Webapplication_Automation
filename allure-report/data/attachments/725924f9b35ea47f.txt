@@ -1,0 +1,30 @@
+Login successful
+Logout element not found
+Message: element not interactable
+  (Session info: chrome=148.0.7778.97); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x35ad03+10893]
+	chromedriver!GetHandleVerifier [0x35ae34+109c4]
+	chromedriver!(No symbol) [0x171cde]
+	chromedriver!(No symbol) [0x1bc3d4]
+	chromedriver!(No symbol) [0x1b2348]
+	chromedriver!(No symbol) [0x1dd77c]
+	chromedriver!(No symbol) [0x1b1d84]
+	chromedriver!(No symbol) [0x1dd944]
+	chromedriver!(No symbol) [0x1fa814]
+	chromedriver!(No symbol) [0x1dd516]
+	chromedriver!(No symbol) [0x1b08c9]
+	chromedriver!(No symbol) [0x1b1684]
+	chromedriver!GetHandleVerifier [0x5f31c4+2a8d54]
+	chromedriver!GetHandleVerifier [0x5ee7cd+2a435d]
+	chromedriver!GetHandleVerifier [0x60ea85+2c4615]
+	chromedriver!GetHandleVerifier [0x3744d8+2a068]
+	chromedriver!GetHandleVerifier [0x37bddd+3196d]
+	chromedriver!GetHandleVerifier [0x3638e8+19478]
+	chromedriver!GetHandleVerifier [0x363a95+19625]
+	chromedriver!GetHandleVerifier [0x34cd8f+291f]
+	KERNEL32!BaseThreadInitThunk [0x753f5d49+19]
+	ntdll!RtlInitializeExceptionChain [0x7742d83b+6b]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7742d7c1+231]
+	(No symbol) [(nil)]
+
